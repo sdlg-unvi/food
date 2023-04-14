@@ -145,6 +145,14 @@ public class Love {
     }
 
 }
+public class dog{
+  public dog(){
+  }
+  public int number()
+  {
+  return 3;
+  }
+  }
 
 
 
